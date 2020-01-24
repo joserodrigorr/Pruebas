@@ -1,0 +1,52 @@
+C:\Users\ELKIN\Documents\Visual Studio 2015\Projects\slnFTP\slnFTP\bin\Debug\slnFTP.exe.config
+C:\Users\ELKIN\Documents\Visual Studio 2015\Projects\slnFTP\slnFTP\obj\Debug\slnFTP.vbprojResolveAssemblyReference.cache
+C:\Users\ELKIN\Documents\Visual Studio 2015\Projects\slnFTP\slnFTP\obj\Debug\slnFTP.Form1.resources
+C:\Users\ELKIN\Documents\Visual Studio 2015\Projects\slnFTP\slnFTP\obj\Debug\slnFTP.Resources.resources
+C:\Users\ELKIN\Documents\Visual Studio 2015\Projects\slnFTP\slnFTP\obj\Debug\slnFTP.vbproj.GenerateResource.Cache
+C:\Users\ELKIN\Documents\Visual Studio 2015\Projects\slnFTP\slnFTP\bin\Debug\slnFTP.exe
+C:\Users\ELKIN\Documents\Visual Studio 2015\Projects\slnFTP\slnFTP\bin\Debug\slnFTP.pdb
+C:\Users\ELKIN\Documents\Visual Studio 2015\Projects\slnFTP\slnFTP\bin\Debug\slnFTP.xml
+C:\Users\ELKIN\Documents\Visual Studio 2015\Projects\slnFTP\slnFTP\bin\Debug\Renci.SshNet.dll
+C:\Users\ELKIN\Documents\Visual Studio 2015\Projects\slnFTP\slnFTP\obj\Debug\slnFTP.exe
+C:\Users\ELKIN\Documents\Visual Studio 2015\Projects\slnFTP\slnFTP\obj\Debug\slnFTP.xml
+C:\Users\ELKIN\Documents\Visual Studio 2015\Projects\slnFTP\slnFTP\obj\Debug\slnFTP.pdb
+E:\slnFTP\slnFTP\bin\Debug\slnFTP.exe.config
+E:\slnFTP\slnFTP\obj\Debug\slnFTP.exe
+E:\slnFTP\slnFTP\obj\Debug\slnFTP.xml
+E:\slnFTP\slnFTP\obj\Debug\slnFTP.pdb
+C:\Users\ELKIN\Desktop\Satelite FTP\slnFTP\slnFTP\bin\Debug\slnFTP.exe.config
+C:\Users\ELKIN\Desktop\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.exe
+C:\Users\ELKIN\Desktop\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.xml
+C:\Users\ELKIN\Desktop\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.pdb
+C:\Users\ELKIN\Desktop\Satelite FTP\slnFTP\slnFTP\bin\Debug\slnFTP.exe
+C:\Users\ELKIN\Desktop\Satelite FTP\slnFTP\slnFTP\bin\Debug\slnFTP.pdb
+C:\Users\ELKIN\Desktop\Satelite FTP\slnFTP\slnFTP\bin\Debug\slnFTP.xml
+C:\Users\ELKIN\Desktop\Satelite FTP\slnFTP\slnFTP\bin\Debug\Renci.SshNet.dll
+C:\Users\ELKIN\Desktop\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.vbprojResolveAssemblyReference.cache
+C:\Users\ELKIN\Desktop\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.Form1.resources
+C:\Users\ELKIN\Desktop\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.Resources.resources
+C:\Users\ELKIN\Desktop\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.vbproj.GenerateResource.Cache
+E:\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 1.0.6\Satelite FTP\slnFTP\slnFTP\bin\Debug\slnFTP.exe.config
+E:\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 1.0.6\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.exe
+E:\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 1.0.6\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.xml
+E:\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 1.0.6\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.pdb
+E:\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 1.0.7\Satelite FTP\slnFTP\slnFTP\bin\Debug\slnFTP.exe.config
+E:\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 1.0.7\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.exe
+E:\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 1.0.7\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.xml
+E:\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 1.0.7\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.pdb
+C:\Users\juancamilo\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 2.0.0\Satelites\Satelite FTP\slnFTP\slnFTP\bin\Debug\slnFTP.exe.config
+C:\Users\juancamilo\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 2.0.0\Satelites\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.exe
+C:\Users\juancamilo\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 2.0.0\Satelites\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.xml
+C:\Users\juancamilo\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 2.0.0\Satelites\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.pdb
+C:\Users\implementador2\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 2.0.0\Satelites\Satelite FTP\slnFTP\slnFTP\bin\Debug\slnFTP.exe.config
+C:\Users\implementador2\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 2.0.0\Satelites\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.exe
+C:\Users\implementador2\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 2.0.0\Satelites\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.xml
+C:\Users\implementador2\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 2.0.0\Satelites\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.pdb
+C:\Users\danie\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 2.0.2\Satelites\Satelite FTP\slnFTP\slnFTP\bin\Debug\slnFTP.exe.config
+C:\Users\danie\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 2.0.2\Satelites\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.exe
+C:\Users\danie\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 2.0.2\Satelites\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.xml
+C:\Users\danie\Google Drive\Proyectos_Desarrollos\Montaje Generic Transfer Integration\Version 2.0.2\Satelites\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.pdb
+C:\Users\Jroldan\Documents\0_CODIGO_FUENTE\Base_slnFTP\Satelite FTP\slnFTP\slnFTP\bin\Debug\slnFTP.exe.config
+C:\Users\Jroldan\Documents\0_CODIGO_FUENTE\Base_slnFTP\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.exe
+C:\Users\Jroldan\Documents\0_CODIGO_FUENTE\Base_slnFTP\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.xml
+C:\Users\Jroldan\Documents\0_CODIGO_FUENTE\Base_slnFTP\Satelite FTP\slnFTP\slnFTP\obj\Debug\slnFTP.pdb
